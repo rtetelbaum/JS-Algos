@@ -1,5 +1,5 @@
 function addUpTo(n) {
-  return n * (n + 1) / 2
+	return n * (n + 1) / 2
 }
 
 var t1 = performance.now()
