@@ -10,4 +10,4 @@ function countUpAndDown(n) {
   console.log("Back down. Bye!")
 }
 
-console.log(countUpAndDown(10))
+countUpAndDown(10)
